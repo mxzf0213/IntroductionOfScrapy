@@ -120,7 +120,7 @@
 
   输出：
 
-  <Selector xpath='descendant-or-self::tr[@participantid]' data='<tr participantid="23513496">\r\n    <td>\r'>
+  Selector xpath='descendant-or-self::tr[@participantid]' data='<tr participantid="23513496">\r\n    <td>\r'
 
   now = persons[0]
 
