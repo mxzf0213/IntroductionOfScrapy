@@ -49,6 +49,7 @@
   scrapy genspider cfspider codeforces.com
 
 ## 编写items.py
+* 我们要爬取的数据有排名/名字/解决问题数/罚时/hack次数/各个题的尝试次数及正确解题的时间
 
 * rank = scrapy.Field() 
 
